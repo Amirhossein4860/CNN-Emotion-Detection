@@ -67,7 +67,7 @@ git clone https://github.com/Amirhossein4860/CNN-Emotion-Detection.git
 ```
 2. Open the notebook
 ``` bash
-jupyter notebook Facial_emotion_rec_heydari.ipynb
+jupyter notebook CNN-Emotion_Detection.ipynb
 ```
 3. Train the model
 
